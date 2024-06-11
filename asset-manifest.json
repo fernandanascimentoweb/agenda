@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agenda/static/css/main.f855e6bc.css",
+    "main.js": "/agenda/static/js/main.864252c5.js",
+    "index.html": "/agenda/index.html",
+    "main.f855e6bc.css.map": "/agenda/static/css/main.f855e6bc.css.map",
+    "main.864252c5.js.map": "/agenda/static/js/main.864252c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.864252c5.js"
+  ]
+}
